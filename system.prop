@@ -29,8 +29,8 @@ ro.sf.lcd_density=320
 ro.opengles.version=131072
 
 wifi.direct.interface=p2p0
-dalvik.vm.heapgrowthlimit=96m
-dalvik.vm.heapsize=128m
+dalvik.vm.heapgrowthlimit=128m
+dalvik.vm.heapsize=256m
 
 # USB MTP WHQL
 ro.sys.usb.mtp.whql.enable=0
@@ -59,7 +59,7 @@ ro.boot.selinux=disable
 debug.hwui.render_dirty_regions=false
 
 ro.mediatek.chip_ver=S01
-ro.mediatek.version.release=ALPS.L1.MP6.A1SP.V1.4_RGK6580.A1WE.A.L
+ro.mediatek.version.release=alps-mp-m0.mp1-V2.34_hct6580.weg.c.m_P147
 ro.mediatek.platform=MT6580
 ro.mediatek.version.sdk=4
 ro.telephony.sim.count=2
