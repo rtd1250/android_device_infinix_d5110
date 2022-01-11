@@ -1,1 +1,1 @@
-# android_device_infinix_d5110
+# android_device_alps_hct6580
